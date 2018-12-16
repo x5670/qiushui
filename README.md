@@ -7,7 +7,7 @@
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh 安装完成后，脚本会提示需要重启 VPS，输入 y 并回车后重启。 重启完成后，进入 VPS，验证一下是否成功安装最新内核并开启 TCP BBR，输入以下命令：
 
 我自己的安装地址
-
+wget --no-check-certificate https://github.com/x5670/qiushui/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 
 
 uname -r 查看内核版本，显示为最新版就表示 OK 了
