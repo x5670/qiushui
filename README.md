@@ -1,5 +1,7 @@
 # qiushui
 秋水
+辉不能用于debian昂
+
 秋水脚本适用环境 系统支持：CentOS 6+，Debian 7+，Ubuntu 12+ 虚拟技术：OpenVZ 以外的，比如 KVM、Xen、VMware 等 内存要求：≥128M 日期　　：2018 年 12 月 14 日
 
 使用root用户登录，运行以下命令：
